@@ -1,0 +1,9 @@
+1= git clone https://github.com/dacomo2021daw2/prjava02.git
+5= git status
+5.2= git  ls-tree  -r main
+7= git remote -v 
+7.2= git remote add origin https://github.com/dameco2021daw2/prjava02.git
+7.3= git branch -M main
+7.4= git push -u origin main
+10b=git merge branca00 
+
